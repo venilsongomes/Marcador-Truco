@@ -1,0 +1,4 @@
+      <Route path='/' element={<Home />} />
+        <Route path='/Cadastro' element={<Cadastro />} />
+        <Route path='/Estoque' element={<Estoque />} />
+        <Route path='/Baixa' element={<Baixa />} />
