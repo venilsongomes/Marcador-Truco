@@ -70,7 +70,7 @@ useEffect(() => {
     <>   
     <section className='container'>
 
-        <h2>Truco do Venilson Gomes </h2>
+        <h2>Marcado de troco </h2>
 
 <section className='cardprin'> 
     
@@ -111,7 +111,7 @@ useEffect(() => {
     
     
     
-    
+    <footer> &copy;  Desenvolvido Por Venilson Rocha  </footer>
     </>
   )
 }
